@@ -1,0 +1,16 @@
+C:\starwars\starwars\starwars\obj\Debug\starwars.csproj.CoreCompileInputs.cache
+C:\starwars\starwars\starwars\bin\Debug\starwars.exe.config
+C:\starwars\starwars\starwars\bin\Debug\starwars.exe
+C:\starwars\starwars\starwars\bin\Debug\starwars.pdb
+C:\starwars\starwars\starwars\bin\Debug\Newtonsoft.Json.dll
+C:\starwars\starwars\starwars\bin\Debug\StreamJsonRpc.dll
+C:\starwars\starwars\starwars\bin\Debug\System.Net.Http.Formatting.dll
+C:\starwars\starwars\starwars\bin\Debug\Newtonsoft.Json.pdb
+C:\starwars\starwars\starwars\bin\Debug\Newtonsoft.Json.xml
+C:\starwars\starwars\starwars\bin\Debug\System.Net.Http.Formatting.xml
+C:\starwars\starwars\starwars\obj\Debug\starwars.csproj.CopyComplete
+C:\starwars\starwars\starwars\obj\Debug\starwars.exe
+C:\starwars\starwars\starwars\obj\Debug\starwars.pdb
+C:\starwars\starwars\starwars\bin\Debug\StarWarsAPI.dll
+C:\starwars\starwars\starwars\bin\Debug\StarWarsAPI.pdb
+C:\starwars\starwars\starwars\obj\Debug\starwars.exe.config
